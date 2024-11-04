@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/54a4656fe4b037e9babd6ec9/1525669925757-IR2EG4NQ7B7SCU776P1W/ke17ZwdGBToddI8pDm48kHH9S2ID7_bpupQnTdrPcoF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0nQwvinDXPV4EYh2MRzm-RRB5rUELEv7EY2n0AZOrEupxpSyqbqKSgmzcCPWV5WMiQ/Blog+images-17.jpg);
+    background-position: 100%;
+}
+h1{
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 100px;
+    font-family: cursive;
+}
+p{
+    font-size: 50px;
+    color: beige;
+}

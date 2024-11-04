@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://images.pexels.com/photos/2903985/pexels-photo-2903985.jpeg?cs=srgb&dl=pexels-2903985.jpg&fm=jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+#clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid;
+    height: 100vh;
+    font-size: 70px;
+}
+#clock{
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+    backdrop-filter: blur(1px);
+}
